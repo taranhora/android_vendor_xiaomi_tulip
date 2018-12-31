@@ -196,6 +196,12 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/tulip/proprietary/vendor/lib64/lib-imsvt.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib-imsvt.so \
     vendor/xiaomi/tulip/proprietary/vendor/lib64/lib-imsvtextutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib-imsvtextutils.so \
     vendor/xiaomi/tulip/proprietary/vendor/lib64/lib-imsvtutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib-imsvtutils.so \
+    vendor/xiaomi/tulip/proprietary/vendor/lib/android.frameworks.sensorservice@1.0-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.frameworks.sensorservice@1.0-v27.so \
+    vendor/xiaomi/tulip/proprietary/vendor/lib/libicuuc-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/libicuuc-v27.so \
+    vendor/xiaomi/tulip/proprietary/vendor/lib/libminikin-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/libminikin-v27.so \
+    vendor/xiaomi/tulip/proprietary/vendor/lib/libskia.so:$(TARGET_COPY_OUT_VENDOR)/lib/libskia.so \
+    vendor/xiaomi/tulip/proprietary/vendor/lib64/libsoftkeymaster.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsoftkeymaster.so \
+    vendor/xiaomi/tulip/proprietary/vendor/lib64/android.frameworks.sensorservice@1.0-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.frameworks.sensorsesorservice@1.0-v27.so \
     vendor/xiaomi/tulip/proprietary/lib64/libExtendedExtractor.so:system/lib64/libExtendedExtractor.so \
     vendor/xiaomi/tulip/proprietary/lib64/libFidoCryptoJNI.so:system/lib64/libFidoCryptoJNI.so \
     vendor/xiaomi/tulip/proprietary/lib64/libFidoCrypto_system.so:system/lib64/libFidoCrypto_system.so \
